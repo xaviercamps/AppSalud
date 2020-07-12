@@ -1,0 +1,2102 @@
+[
+	{
+		"id": 1,
+		"name": "Carlos",
+		"firstname": "García",
+    "secondname": "Hernandez",
+    "age": 20,
+		"bloodpressure": [
+    {
+    "date": "01-07-2020",
+    "maxima" : 118,
+    "minima" : 80
+    },
+    {
+    "date": "03-07-2020",
+    "maxima" : 115,
+    "minima" : 75
+    },{
+        "date": "05-07-2020",
+    "maxima" : 120,
+    "minima" : 76
+    },{
+        "date": "07-07-2020",
+    "maxima" : 110,
+    "minima" : 79
+    },{
+        "date": "09-07-2020",
+    "maxima" : 112,
+    "minima" : 75
+    },{
+        "date": "11-07-2020",
+    "maxima" : 115,
+    "minima" : 70
+    },{
+        "date": "13-07-2020",
+    "maxima" : 110,
+    "minima" : 72
+    },{
+        "date": "15-07-2020",
+    "maxima" : 100,
+    "minima" : 71
+    },{
+        "date": "17-07-2020",
+    "maxima" : 110,
+    "minima" : 80
+    },{
+        "date": "19-07-2020",
+    "maxima" : 115,
+    "minima" : 78
+    },{
+        "date": "21-07-2020",
+    "maxima" : 113,
+    "minima" : 75
+    },{
+        "date": "23-07-2020",
+    "maxima" : 111,
+    "minima" : 72
+    },{
+        "date": "24-07-2020",
+    "maxima" : 110,
+    "minima" : 72
+    },{
+        "date": "25-07-2020",
+    "maxima" : 115,
+    "minima" : 75
+    },{
+        "date": "27-07-2020",
+    "maxima" : 120,
+    "minima" : 75
+    }
+    ],
+		"bloodoxygen": [
+            100,
+            100,
+            100,
+            100,
+            98,
+            97,
+            97,
+            93,
+            90,
+            88,
+            87,
+            87,
+            86,
+            86,
+            85
+        ],
+        "heartrate": [
+            85,
+            90,
+            82,
+            75,
+            65,
+            69,
+            72,
+            83,
+            81,
+            80,
+            87,
+            90,
+            100,
+            55,
+            75
+        ]
+	},
+  {
+      "id": 2,
+      "name": "Elena",
+      "firstname": "Molina",
+  "secondname": "Vidal",
+  "age": 37,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 3,
+      "name": "Aitor",
+      "firstname": "Arias",
+  "secondname": "Herrero",
+  "age": 25,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 4,
+      "name": "Abel",
+      "firstname": "Gutierrez",
+  "secondname": "Blanco",
+  "age": 43,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 5,
+      "name": "Gisela",
+      "firstname": "García",
+  "secondname": "García",
+  "age": 46,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 6,
+      "name": "Adriana",
+      "firstname": "Costa",
+  "secondname": "Hernández",
+  "age": 26,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 7,
+      "name": "Juan",
+      "firstname": "Sánchez",
+  "secondname": "García",
+  "age": 20,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 8,
+      "name": "Estrella",
+      "firstname": "Galícia",
+  "secondname": "🍺",
+  "age": 29,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 9,
+      "name": "Manuel",
+      "firstname": "Rojas",
+  "secondname": "Pérez",
+  "age": 51,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 10,
+      "name": "Laura",
+      "firstname": "Pérez",
+  "secondname": "Pérez",
+  "age": 41,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 11,
+      "name": "Carlos",
+      "firstname": "García",
+  "secondname": "Pérez",
+  "age": 42,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 12,
+      "name": "Miguel",
+      "firstname": "Flaqué",
+  "secondname": "Pérez",
+  "age": 18,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 13,
+      "name": "Monica",
+      "firstname": "Rojas",
+  "secondname": "Campos",
+  "age": 37,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 14,
+      "name": "Mireia",
+      "firstname": "García",
+  "secondname": "García",
+  "age": 45,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 15,
+      "name": "María",
+      "firstname": "Campos",
+  "secondname": "Sánchez",
+  "age": 28,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 16,
+      "name": "Carla",
+      "firstname": "Sanchez",
+  "secondname": "Picó",
+  "age": 20,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 17,
+      "name": "Xavier",
+      "firstname": "Muñoz",
+  "secondname": "Muñoz",
+  "age": 20,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 18,
+      "name": "Carlos",
+      "firstname": "Sanchez",
+  "secondname": "Sanchez",
+  "age": 34,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 19,
+      "name": "Juan",
+      "firstname": "Hernández",
+  "secondname": "García",
+  "age": 40,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+  {
+      "id": 20,
+      "name": "Miguel",
+      "firstname": "Sanchís",
+  "secondname": "Hernandez",
+  "age": 50,
+      "bloodpressure": [
+  {
+  "date": "01-07-2020",
+  "maxima" : 118,
+  "minima" : 80
+  },
+  {
+  "date": "03-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "05-07-2020",
+  "maxima" : 120,
+  "minima" : 76
+  },{
+      "date": "07-07-2020",
+  "maxima" : 110,
+  "minima" : 79
+  },{
+      "date": "09-07-2020",
+  "maxima" : 112,
+  "minima" : 75
+  },{
+      "date": "11-07-2020",
+  "maxima" : 115,
+  "minima" : 70
+  },{
+      "date": "13-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "15-07-2020",
+  "maxima" : 100,
+  "minima" : 71
+  },{
+      "date": "17-07-2020",
+  "maxima" : 110,
+  "minima" : 80
+  },{
+      "date": "19-07-2020",
+  "maxima" : 115,
+  "minima" : 78
+  },{
+      "date": "21-07-2020",
+  "maxima" : 113,
+  "minima" : 75
+  },{
+      "date": "23-07-2020",
+  "maxima" : 111,
+  "minima" : 72
+  },{
+      "date": "24-07-2020",
+  "maxima" : 110,
+  "minima" : 72
+  },{
+      "date": "25-07-2020",
+  "maxima" : 115,
+  "minima" : 75
+  },{
+      "date": "27-07-2020",
+  "maxima" : 120,
+  "minima" : 75
+  }
+  ],
+      "bloodoxygen": [
+          100,
+          100,
+          100,
+          100,
+          98,
+          97,
+          97,
+          93,
+          90,
+          88,
+          87,
+          87,
+          86,
+          86,
+          85
+      ],
+      "heartrate": [
+          85,
+          90,
+          82,
+          75,
+          65,
+          69,
+          72,
+          83,
+          81,
+          80,
+          87,
+          90,
+          100,
+          55,
+          75
+      ]
+  },
+]
