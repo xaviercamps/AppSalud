@@ -1,0 +1,8 @@
+title: Appsalud
+description: App create and designed with a course of SwiftUI from AppleCodingAcademy
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
